@@ -1,6 +1,5 @@
-# Storage Interleaving system for security * and performance * Purposes
-
 ---
+# Storage Interleaving system for security * and performance * Purposes
 
         ----Ordinary Storage System----
 
